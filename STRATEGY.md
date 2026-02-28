@@ -155,6 +155,7 @@ Solana has 3x the market cap but similar volume. This suggests:
 
 | Time (UTC) | Update |
 |------------|--------|
+| 2026-02-28 21:44 | 🚀 NEAR breaks 7.3%! Kite/Virtuals gap $6M |
 | 2026-02-28 21:14 | Cooling from highs, Render back red, NEAR +5.0% |
 | 2026-02-28 20:59 | 🚀 Render GREEN +0.5%, NEAR +5.5%, Virtuals +4.5%, gap $8M |
 | 2026-02-28 20:29 | 🔥 Rally intensifies: TAO +3.2%, NEAR +4.6%, gap $15M |
@@ -174,42 +175,41 @@ Solana has 3x the market cap but similar volume. This suggests:
 
 ---
 
-## Latest Data (Feb 28, 2026 21:14 UTC)
+## Latest Data (Feb 28, 2026 21:44 UTC)
 
 ### Market Movement
-- **Cooling from highs** — minor pullback
-- **TAO +2.6%** — off peak
-- **NEAR +5.0%** — still strong
-- **Virtuals +3.1%** — off peak
-- **Kite +12.4%** — slight pullback
-- **Render -0.8%** — slipped back red
+- **🚀 NEAR surges to +7.3%** — breakout!
+- **TAO +3.5%** — rebounding
+- **Virtuals +4.0%** — recovering
+- **Kite +12.4%** — holding
+- **Render -0.6%** — nearly flat
 
 ### Solana AI Update
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Render | $730M | -0.8% | $56M |
-| pippin | $600M | -4.4% | $61M |
-| **Total** | **$1.33B** | — | **$117M** |
+| Render | $724M | -0.6% | $59M |
+| pippin | $590M | -3.6% | $61M |
+| **Total** | **$1.31B** | — | **$120M** |
 
 ### Base AI Update
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Virtuals | $459M | +3.1% | $127M |
+| Virtuals | $460M | **+4.0%** | $129M |
 
 ### EVM Competitor
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Kite | $468M | +12.4% | $128M |
+| Kite | $466M | +12.4% | $128M |
 
 ### Key Observation
-**Minor consolidation.** Rally cooling from highs but still positive. Kite/Virtuals gap stable at $9M. NEAR maintaining above +5%.
+**NEAR breaking out!** +7.3% leads entire AI category. TAO rebounds. Kite/Virtuals gap narrows to $6M — nearly tied.
 
-### Trend Summary (5h window)
-- pippin: -10.8% → -2.5% → -4.4% (weakening slightly)
-- Kite: +8.2% → +13.9% → +12.4% (consolidating)
-- Virtuals: -3.4% → +4.5% → +3.1% (consolidating)
-- NEAR: +0.8% → +5.5% → +5.0% (still leading!)
-- Render: -5.9% → +0.5% → -0.8% (back to red)
+### Trend Summary (5.5h window)
+- pippin: -10.8% → -2.5% → -3.6% (stable)
+- Kite: +8.2% → +13.9% → +12.4% (holding)
+- Virtuals: -3.4% → +3.1% → **+4.0%** (recovering!)
+- NEAR: +0.8% → +5.0% → **+7.3%** (breakout!)
+- Render: -5.9% → -0.8% → -0.6% (stabilizing)
 
 ### Web Search Unavailable
 Unable to check @MattPRD tweets — Brave API key not configured.
