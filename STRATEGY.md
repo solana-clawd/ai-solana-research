@@ -155,6 +155,7 @@ Solana has 3x the market cap but similar volume. This suggests:
 
 | Time (UTC) | Update |
 |------------|--------|
+| 2026-02-28 21:59 | 🚀 Venice +25.9%, Grass +31.5%! Kite/Virtuals TIED ($4M gap) |
 | 2026-02-28 21:44 | 🚀 NEAR breaks 7.3%! Kite/Virtuals gap $6M |
 | 2026-02-28 21:14 | Cooling from highs, Render back red, NEAR +5.0% |
 | 2026-02-28 20:59 | 🚀 Render GREEN +0.5%, NEAR +5.5%, Virtuals +4.5%, gap $8M |
@@ -175,41 +176,45 @@ Solana has 3x the market cap but similar volume. This suggests:
 
 ---
 
-## Latest Data (Feb 28, 2026 21:44 UTC)
+## Latest Data (Feb 28, 2026 21:59 UTC)
 
 ### Market Movement
-- **🚀 NEAR surges to +7.3%** — breakout!
-- **TAO +3.5%** — rebounding
-- **Virtuals +4.0%** — recovering
-- **Kite +12.4%** — holding
-- **Render -0.6%** — nearly flat
+- **🚀 Venice Token +25.9%** — breakout!
+- **🚀 Grass +31.5%** — massive pump!
+- **NEAR +7.0%** — still leading
+- **TAO +4.4%** — rebounding
+- **Virtuals +4.2%** — holding
+- **Kite +11.7%** — holding
+- **Render -0.2%** — nearly flat
 
 ### Solana AI Update
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Render | $724M | -0.6% | $59M |
-| pippin | $590M | -3.6% | $61M |
-| **Total** | **$1.31B** | — | **$120M** |
+| Render | $727M | -0.2% | $58M |
+| pippin | $594M | -3.5% | $61M |
+| **Total** | **$1.32B** | — | **$119M** |
 
 ### Base AI Update
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Virtuals | $460M | **+4.0%** | $129M |
+| Virtuals | $461M | **+4.2%** | $129M |
 
 ### EVM Competitor
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Kite | $466M | +12.4% | $128M |
+| Kite | $465M | +11.7% | $126M |
 
 ### Key Observation
-**NEAR breaking out!** +7.3% leads entire AI category. TAO rebounds. Kite/Virtuals gap narrows to $6M — nearly tied.
+**Kite/Virtuals now TIED** — just $4M gap. Venice and Grass exploding (+25.9%, +31.5%). NEAR maintains +7% lead. Solana AI stable at $1.32B.
 
 ### Trend Summary (5.5h window)
-- pippin: -10.8% → -2.5% → -3.6% (stable)
-- Kite: +8.2% → +13.9% → +12.4% (holding)
-- Virtuals: -3.4% → +3.1% → **+4.0%** (recovering!)
-- NEAR: +0.8% → +5.0% → **+7.3%** (breakout!)
-- Render: -5.9% → -0.8% → -0.6% (stabilizing)
+- pippin: -10.8% → -2.5% → -3.5% (stable)
+- Kite: +8.2% → +13.9% → +11.7% (holding)
+- Virtuals: -3.4% → +3.1% → **+4.2%** (recovering!)
+- NEAR: +0.8% → +5.0% → **+7.0%** (sustained breakout!)
+- Render: -5.9% → -0.8% → -0.2% (flat)
+- Venice: +11.5% → **+25.9%** (NEW: exploding!)
+- Grass: **+31.5%** (NEW: massive pump!)
 
 ### Web Search Unavailable
 Unable to check @MattPRD tweets — Brave API key not configured.
