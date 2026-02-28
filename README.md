@@ -22,13 +22,13 @@ Base's flagship AI project, spawned the "AI agent" meta.
 
 ## CoinGecko AI Category Data
 
-### Category Overview (Feb 28, 2026 21:59 UTC)
+### Category Overview (Feb 28, 2026 22:29 UTC)
 
 | Metric | Value |
 |--------|-------|
-| **Total Market Cap** | ~$13.8B |
+| **Total Market Cap** | ~$13.9B |
 | **24h Volume** | ~$2.5B |
-| **24h Change** | **+4.4% to +31.5%** (Grass, Venice exploding!) |
+| **24h Change** | **+5.2% to +33.4%** (Grass, Venice, Virtuals surging!) |
 | **Top 3 Coins** | Bittensor, NEAR, ICP |
 
 ### AI Category Ranking vs Other Categories
@@ -51,27 +51,27 @@ Base's flagship AI project, spawned the "AI agent" meta.
 
 | Rank | Token | Symbol | Market Cap | 24h Change | Volume | Chain |
 |------|-------|--------|------------|------------|--------|-------|
-| 1 | Bittensor | TAO | $1.74B | **+4.4%** | $121M | Own chain |
-| 2 | NEAR Protocol | NEAR | $1.49B | **+7.0%** | $258M | NEAR |
-| 3 | Internet Computer | ICP | $1.34B | -2.1% | $96M | ICP |
-| 4 | **Render** | RENDER | **$727M** | -0.2% | $58M | **Solana** ✅ |
-| 5 | **pippin** | PIPPIN | **$594M** | -3.5% | $61M | **Solana** ✅ |
-| 6 | Kite | KITE | $465M | **+11.7%** | $126M | ETH/BSC/AVAX |
-| 7 | **Virtuals Protocol** | VIRTUAL | **$461M** | **+4.2%** | $129M | **Base** |
-| 8 | ASI Alliance | FET | $351M | -0.5% | $53M | Multi |
+| 1 | Bittensor | TAO | $1.76B | **+5.2%** | $123M | Own chain |
+| 2 | NEAR Protocol | NEAR | $1.50B | **+7.7%** | $262M | NEAR |
+| 3 | Internet Computer | ICP | $1.35B | -1.8% | $95M | ICP |
+| 4 | **Render** | RENDER | **$732M** | **+0.5%** | $58M | **Solana** ✅ |
+| 5 | **pippin** | PIPPIN | **$603M** | -3.9% | $61M | **Solana** ✅ |
+| 6 | **Virtuals Protocol** | VIRTUAL | **$466M** | **+6.9%** | $131M | **Base** |
+| 7 | Kite | KITE | $465M | **+12.2%** | $126M | ETH/BSC/AVAX |
+| 8 | ASI Alliance | FET | $355M | +1.5% | $52M | Multi |
 
-**🚀 NEAR +7%!** Venice +25.9%, Grass +31.5% — breakout movers. Kite/Virtuals tied ($4M gap)!
+**🔄 Virtuals PASSES Kite!** Base reclaims AI agent lead ($466M vs $465M). NEAR +7.7%, Grass +33.4%!
 
 ### Chain Comparison: AI Token Market Share
 
 | Chain | AI Tokens | Combined Mcap | Combined Volume |
 |-------|-----------|---------------|-----------------|
-| **Solana** | Render, pippin | **$1.32B** | **$119M** |
-| **Base** | Virtuals, AIXBT, ecosystem | ~$476M | **$129M** |
+| **Solana** | Render, pippin | **$1.34B** | **$119M** |
+| **Base** | Virtuals, AIXBT, ecosystem | ~$481M | **$131M** |
 | **EVM Multi** | Kite | $465M | $126M |
-| Own chains | TAO, NEAR, ICP | $4.6B | $475M |
+| Own chains | TAO, NEAR, ICP | $4.6B | $480M |
 
-**Kite/Virtuals now TIED** — just $4M gap! Venice (+25.9%) and Grass (+31.5%) breakout!
+**🔄 Virtuals reclaims lead!** Base AI ($466M) passes EVM Kite ($465M). Render flips green!
 
 ---
 
@@ -104,6 +104,14 @@ Base's flagship AI project, spawned the "AI agent" meta.
 4. Volume migration trends over past 30 days?
 
 ## Research Log
+
+### 2026-02-28 22:29 UTC
+- **🔄 Virtuals PASSES Kite!** $466M vs $465M — Base reclaims AI agent lead
+- Virtuals surges to **+6.9%** (was +4.2%)
+- **Render flips green** +0.5%
+- NEAR extends to **+7.7%**
+- Grass extends to **+33.4%**
+- Solana AI: $1.34B (Render $732M, pippin $603M)
 
 ### 2026-02-28 21:59 UTC
 - **🚀 BREAKOUT MOVERS:** Venice +25.9%, Grass +31.5%!
