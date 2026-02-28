@@ -22,13 +22,13 @@ Base's flagship AI project, spawned the "AI agent" meta.
 
 ## CoinGecko AI Category Data
 
-### Category Overview (Feb 28, 2026 16:59 UTC)
+### Category Overview (Feb 28, 2026 17:14 UTC)
 
 | Metric | Value |
 |--------|-------|
 | **Total Market Cap** | ~$12.8B |
 | **24h Volume** | ~$1.9B |
-| **24h Change** | -3% to -11% (selloff continues) |
+| **24h Change** | -2% to -8% (stabilizing) |
 | **Top 3 Coins** | Bittensor, NEAR, ICP |
 
 ### AI Category Ranking vs Other Categories
@@ -51,31 +51,30 @@ Base's flagship AI project, spawned the "AI agent" meta.
 
 | Rank | Token | Symbol | Market Cap | 24h Change | Volume | Chain |
 |------|-------|--------|------------|------------|--------|-------|
-| 1 | Bittensor | TAO | $1.65B | -2.9% | $108M | Own chain |
-| 2 | NEAR Protocol | NEAR | $1.38B | -2.0% | $172M | NEAR |
-| 3 | Internet Computer | ICP | $1.28B | -4.1% | $95M | ICP |
-| 4 | **Render** | RENDER | **$689M** | -5.9% | $51M | **Solana** ✅ |
-| 5 | **pippin** | PIPPIN | **$591M** | **-10.8%** | $65M | **Solana** ✅ |
-| 6 | Kite | KITE | $471M | **+10.3%** | $152M | ETH/BSC/AVAX |
-| 7 | **Virtuals Protocol** | VIRTUAL | **$433M** | -3.2% | $85M | **Base** |
-| 8 | ASI Alliance | FET | $335M | -6.1% | $47M | Multi |
-| 9 | Story | IP | $314M | -7.8% | $25M | - |
-| 10 | The Graph | GRT | $269M | -4.5% | $16M | Multi |
-| 11 | Venice Token | VVV | $229M | **+11.5%** | $32M | - |
-| 12 | Theta Network | THETA | $179M | -5.1% | $7M | Own chain |
+| 1 | Bittensor | TAO | $1.65B | -3.5% | $107M | Own chain |
+| 2 | NEAR Protocol | NEAR | $1.38B | -2.3% | $170M | NEAR |
+| 3 | Internet Computer | ICP | $1.29B | -4.2% | $94M | ICP |
+| 4 | **Render** | RENDER | **$690M** | -5.9% | $51M | **Solana** ✅ |
+| 5 | **pippin** | PIPPIN | **$590M** | -8.2% | $63M | **Solana** ✅ |
+| 6 | Kite | KITE | $470M | **+10.8%** | $130M | ETH/BSC/AVAX |
+| 7 | **Virtuals Protocol** | VIRTUAL | **$434M** | -2.3% | $113M | **Base** |
+| 8 | ASI Alliance | FET | $335M | -5.9% | $45M | Multi |
+| 9 | Story | IP | $313M | -8.1% | $24M | - |
+| 10 | The Graph | GRT | $270M | -4.4% | $16M | Multi |
+| 11 | Venice Token | VVV | $229M | **+11%** | $32M | - |
 
-**Notable:** Kite (+10.3%) and Venice Token (+11.5%) continue rallying. pippin extended losses to -10.8%.
+**Notable:** pippin recovering (was -10.8%, now -8.2%). Kite still strong at +10.8%. Market stabilizing.
 
 ### Chain Comparison: AI Token Market Share
 
 | Chain | AI Tokens | Combined Mcap | Combined Volume |
 |-------|-----------|---------------|-----------------|
-| **Solana** | Render, pippin | **$1.28B** | **$116M** |
-| **Base** | Virtuals, AIXBT, ecosystem | ~$450M | **$85M+** |
-| **EVM Multi** | Kite | $471M | $152M |
-| Own chains | TAO, NEAR, ICP, THETA | $4.5B | $382M |
+| **Solana** | Render, pippin | **$1.28B** | **$114M** |
+| **Base** | Virtuals, AIXBT, ecosystem | ~$450M | **$113M** |
+| **EVM Multi** | Kite | $470M | $130M |
+| Own chains | TAO, NEAR, ICP, THETA | $4.5B | $371M |
 
-**Solana leads in AI market cap** but pippin showing weakness (-10.8%). Kite ($471M) now approaching Virtuals ($433M) in mcap — notable EVM competitor.
+**Solana leads mcap** but pippin recovering from lows. Kite ($470M) vs Virtuals ($434M) — tight race for #6 AI token.
 
 ---
 
@@ -108,6 +107,12 @@ Base's flagship AI project, spawned the "AI agent" meta.
 4. Volume migration trends over past 30 days?
 
 ## Research Log
+
+### 2026-02-28 17:14 UTC
+- Market stabilizing — selloff slowing
+- pippin recovering: -8.2% (was -10.8%)
+- Kite vs Virtuals: $470M vs $434M — tight race
+- Virtuals volume recovered to $113M
 
 ### 2026-02-28 16:59 UTC
 - pippin extended losses to -10.8% ($591M) — Solana AI weakness
