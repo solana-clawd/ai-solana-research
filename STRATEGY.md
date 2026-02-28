@@ -155,6 +155,7 @@ Solana has 3x the market cap but similar volume. This suggests:
 
 | Time (UTC) | Update |
 |------------|--------|
+| 2026-02-28 22:44 | 🔄 Kite RECLAIMS lead! $470M vs $467M. Render extends +2.0% |
 | 2026-02-28 22:29 | 🔄 Virtuals PASSES Kite! $466M vs $465M. Render flips green +0.5% |
 | 2026-02-28 21:59 | 🚀 Venice +25.9%, Grass +31.5%! Kite/Virtuals TIED ($4M gap) |
 | 2026-02-28 21:44 | 🚀 NEAR breaks 7.3%! Kite/Virtuals gap $6M |
@@ -177,45 +178,45 @@ Solana has 3x the market cap but similar volume. This suggests:
 
 ---
 
-## Latest Data (Feb 28, 2026 22:29 UTC)
+## Latest Data (Feb 28, 2026 22:44 UTC)
 
 ### Market Movement
-- **🔄 Virtuals PASSES Kite!** $466M vs $465M — Base reclaims AI agent lead
-- **Virtuals surges +6.9%** (was +4.2%)
-- **Render flips green** +0.5%
-- **NEAR +7.7%** — extends lead
-- **Grass +33.4%** — still pumping!
-- **Venice +26.2%** — holding
-- **TAO +5.2%** — extending
+- **🔄 Kite RECLAIMS lead!** $470M vs $467M — tight battle continues
+- **Render extends** to **+2.0%** (accelerating!)
+- **NEAR +7.8%** — still leading
+- **TAO +5.7%** — extending
+- **Grass +28.7%** — cooling slightly
+- **Venice +26.8%** — holding
+- **pippin -4.3%** — weakening
 
 ### Solana AI Update
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Render | $732M | **+0.5%** | $58M |
-| pippin | $603M | -3.9% | $61M |
-| **Total** | **$1.34B** | — | **$119M** |
+| Render | $738M | **+2.0%** | $60M |
+| pippin | $604M | -4.3% | $61M |
+| **Total** | **$1.34B** | — | **$121M** |
 
 ### Base AI Update
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Virtuals | $466M | **+6.9%** | $131M |
+| Virtuals | $467M | **+7.1%** | $125M |
 
 ### EVM Competitor
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Kite | $465M | +12.2% | $126M |
+| Kite | $470M | **+13.3%** | $127M |
 
 ### Key Observation
-**Virtuals reclaims lead over Kite!** Base AI narrative strengthening. Render finally green. Solana AI at $1.34B but pippin still weak (-3.9%).
+**Kite/Virtuals in tight battle** — lead keeps flipping. Render accelerating (+2.0%) is positive for Solana, but pippin weakness (-4.3%) is concerning.
 
-### Trend Summary (6h window)
-- pippin: -10.8% → -2.5% → -3.9% (stable but weak)
-- Kite: +8.2% → +13.9% → +12.2% (holding)
-- Virtuals: -3.4% → +3.1% → **+6.9%** (surging! passed Kite)
-- NEAR: +0.8% → +5.0% → **+7.7%** (sustained breakout!)
-- Render: -5.9% → -0.8% → **+0.5%** (flipped green!)
-- Venice: +11.5% → +25.9% → **+26.2%** (holding)
-- Grass: +31.5% → **+33.4%** (extending!)
+### Trend Summary (6.25h window)
+- pippin: -10.8% → -2.5% → **-4.3%** (weakening again)
+- Kite: +8.2% → +12.2% → **+13.3%** (accelerating! reclaimed lead)
+- Virtuals: -3.4% → +6.9% → **+7.1%** (holding)
+- NEAR: +0.8% → +7.7% → **+7.8%** (sustained!)
+- Render: -5.9% → +0.5% → **+2.0%** (accelerating!)
+- Venice: +11.5% → +26.2% → **+26.8%** (holding)
+- Grass: +31.5% → +33.4% → **+28.7%** (cooling)
 
 ### Web Search Unavailable
 Unable to check @MattPRD tweets — Brave API key not configured.
