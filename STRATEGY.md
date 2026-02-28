@@ -155,6 +155,7 @@ Solana has 3x the market cap but similar volume. This suggests:
 
 | Time (UTC) | Update |
 |------------|--------|
+| 2026-02-28 19:14 | Consolidation, NEAR still green, Kite/Virtuals gap $29M |
 | 2026-02-28 18:59 | NEAR flips green (+0.8%), Virtuals $443M, gap narrows to $27M |
 | 2026-02-28 18:44 | Broad recovery, Kite +12.1%, Virtuals $438M, Solana $1.30B |
 | 2026-02-28 18:14 | pippin strong recovery to -1.7%, Solana AI at $1.29B |
@@ -168,38 +169,38 @@ Solana has 3x the market cap but similar volume. This suggests:
 
 ---
 
-## Latest Data (Feb 28, 2026 18:59 UTC)
+## Latest Data (Feb 28, 2026 19:14 UTC)
 
 ### Market Movement
-- **NEAR flips green** (+0.8%) — first AI token positive!
-- **Bittensor nearly flat** (-0.6%)
-- **Kite (KITE)** holding: +12.2% at $470M mcap, volume $150M
-- **Virtuals recovering** — now $443M
+- **Consolidating** after recovery
+- **NEAR still green** (+0.8%)
+- **Kite (KITE)** holding: +11.6% at $468M mcap
+- **Virtuals** at $439M
 
 ### Solana AI Update
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Render | $708M | -3.8% | $53M |
-| pippin | $600M | -2.4% | $61M |
-| **Total** | **$1.31B** | — | **$114M** |
+| Render | $703M | -3.7% | $53M |
+| pippin | $596M | -3.4% | $60M |
+| **Total** | **$1.30B** | — | **$113M** |
 
 ### Base AI Update
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Virtuals | $443M | -1.4% | $86M |
+| Virtuals | $439M | -1.5% | $114M |
 
 ### EVM Competitor
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Kite | $470M | +12.2% | $150M |
+| Kite | $468M | +11.6% | $151M |
 
 ### Key Observation
-**Recovery accelerating.** NEAR first to flip positive. Virtuals catching up to Kite — gap now $27M (was $40M at peak). Kite volume spiked to $150M.
+**Consolidation phase.** Market taking a breather after 2h recovery. NEAR holding green. Kite/Virtuals gap stable at $29M.
 
-### Trend Summary (2.5h window)
-- pippin: -10.8% → -1.7% → -2.4% (stable after recovery)
-- Kite: +8.2% → +12.1% → +12.2% (holding gains)
-- Virtuals: -3.4% → -2.5% → -1.4% (steadily improving)
+### Trend Summary (3h window)
+- pippin: -10.8% → -1.7% → -3.4% (stabilized)
+- Kite: +8.2% → +12.2% → +11.6% (holding)
+- Virtuals: -3.4% → -1.4% → -1.5% (stable)
 
 ### Web Search Unavailable
 Unable to check @MattPRD tweets — Brave API key not configured.
