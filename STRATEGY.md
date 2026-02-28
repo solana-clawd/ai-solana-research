@@ -155,6 +155,7 @@ Solana has 3x the market cap but similar volume. This suggests:
 
 | Time (UTC) | Update |
 |------------|--------|
+| 2026-02-28 17:59 | pippin bounced to -5.6%, Kite $40M ahead of Virtuals |
 | 2026-02-28 17:29 | Consolidating, Kite ahead of Virtuals ($467M vs $434M) |
 | 2026-02-28 17:14 | Market stabilizing, pippin recovering (-8.2%), Kite vs Virtuals tight |
 | 2026-02-28 16:59 | pippin extended to -10.8%, Kite at $471M approaching Virtuals |
@@ -164,35 +165,35 @@ Solana has 3x the market cap but similar volume. This suggests:
 
 ---
 
-## Latest Data (Feb 28, 2026 17:29 UTC)
+## Latest Data (Feb 28, 2026 17:59 UTC)
 
 ### Market Movement
-- **Consolidating** — minor moves, most tokens -2% to -9%
-- **Kite (KITE)** holding: +10.3% at $467M mcap
-- **pippin** slightly weaker: -8.7%
+- **Recovering** — most tokens -2% to -6% (improved from -9%)
+- **Kite (KITE)** holding gains: +10.8% at $472M mcap
+- **pippin bounced** from lows
 
 ### Solana AI Update
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Render | $688M | -5.5% | $51M |
-| pippin | $588M | -8.7% | $63M |
-| **Total** | **$1.28B** | — | **$114M** |
+| Render | $689M | -5.9% | $51M |
+| pippin | $595M | **-5.6%** | $62M |
+| **Total** | **$1.28B** | — | **$113M** |
 
 ### Base AI Update
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Virtuals | $434M | -2.0% | $85M |
+| Virtuals | $432M | -3.3% | $112M |
 
 ### EVM Competitor
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Kite | $467M | +10.3% | $129M |
+| Kite | $472M | +10.8% | $128M |
 
 ### Key Observation
-**Kite pulling ahead of Virtuals** — $467M vs $434M (+$33M gap). Kite has 1.5x the volume ($129M vs $85M). EVM multichain AI narrative strengthening.
+**Kite extends lead over Virtuals** — $472M vs $432M (+$40M gap). EVM multichain AI narrative continues strengthening. Kite now clearly #6 in AI category.
 
-### pippin Watch
-pippin back to -8.7% (was -8.2%). Underperforming market average. Solana's #2 AI token struggling relative to competitors.
+### pippin Recovery
+pippin bounced from -8.7% to -5.6%. Now trading at $595M (was $588M). Solana's #2 AI token showing resilience after earlier weakness.
 
 ### Web Search Unavailable
 Unable to check @MattPRD tweets — Brave API key not configured.
