@@ -22,13 +22,13 @@ Base's flagship AI project, spawned the "AI agent" meta.
 
 ## CoinGecko AI Category Data
 
-### Category Overview (Feb 28, 2026 19:59 UTC)
+### Category Overview (Feb 28, 2026 20:29 UTC)
 
 | Metric | Value |
 |--------|-------|
-| **Total Market Cap** | ~$13.5B |
-| **24h Volume** | ~$2.1B |
-| **24h Change** | **+1.5% to +3.9%** (rally continues!) |
+| **Total Market Cap** | ~$13.7B |
+| **24h Volume** | ~$2.2B |
+| **24h Change** | **+3.2% to +4.6%** (rally intensifying!) |
 | **Top 3 Coins** | Bittensor, NEAR, ICP |
 
 ### AI Category Ranking vs Other Categories
@@ -51,27 +51,27 @@ Base's flagship AI project, spawned the "AI agent" meta.
 
 | Rank | Token | Symbol | Market Cap | 24h Change | Volume | Chain |
 |------|-------|--------|------------|------------|--------|-------|
-| 1 | Bittensor | TAO | $1.70B | **+1.5%** | $111M | Own chain |
-| 2 | NEAR Protocol | NEAR | $1.46B | **+3.9%** | $211M | NEAR |
-| 3 | Internet Computer | ICP | $1.32B | -1.9% | $95M | ICP |
-| 4 | **Render** | RENDER | **$720M** | -1.4% | $55M | **Solana** ✅ |
-| 5 | **pippin** | PIPPIN | **$600M** | -3.6% | $60M | **Solana** ✅ |
-| 6 | Kite | KITE | $476M | **+12.9%** | $152M | ETH/BSC/AVAX |
-| 7 | **Virtuals Protocol** | VIRTUAL | **$455M** | **+2.4%** | $120M | **Base** |
-| 8 | ASI Alliance | FET | $347M | - | $49M | Multi |
+| 1 | Bittensor | TAO | $1.73B | **+3.2%** | $114M | Own chain |
+| 2 | NEAR Protocol | NEAR | $1.47B | **+4.6%** | $219M | NEAR |
+| 3 | Internet Computer | ICP | $1.34B | -2.3% | $94M | ICP |
+| 4 | **Render** | RENDER | **$731M** | **-0.5%** | $55M | **Solana** ✅ |
+| 5 | **pippin** | PIPPIN | **$599M** | -2.9% | $60M | **Solana** ✅ |
+| 6 | Kite | KITE | $474M | **+13.9%** | $127M | ETH/BSC/AVAX |
+| 7 | **Virtuals Protocol** | VIRTUAL | **$459M** | **+3.2%** | $122M | **Base** |
+| 8 | ASI Alliance | FET | $354M | - | $50M | Multi |
 
-**Rally continues:** NEAR +3.9% leading, Virtuals +2.4%. Kite/Virtuals gap narrows to $21M.
+**🔥 RALLY INTENSIFYING:** TAO +3.2%, NEAR +4.6%, Virtuals +3.2%. Render nearly flat! Gap now $15M.
 
 ### Chain Comparison: AI Token Market Share
 
 | Chain | AI Tokens | Combined Mcap | Combined Volume |
 |-------|-----------|---------------|-----------------|
-| **Solana** | Render, pippin | **$1.32B** | **$115M** |
-| **Base** | Virtuals, AIXBT, ecosystem | ~$470M | **$120M** |
-| **EVM Multi** | Kite | $476M | $152M |
-| Own chains | TAO, NEAR, ICP | $4.5B | $417M |
+| **Solana** | Render, pippin | **$1.33B** | **$115M** |
+| **Base** | Virtuals, AIXBT, ecosystem | ~$475M | **$122M** |
+| **EVM Multi** | Kite | $474M | $127M |
+| Own chains | TAO, NEAR, ICP | $4.5B | $427M |
 
-**Rally holding.** Virtuals accelerating (+2.4%). Kite/Virtuals gap narrows to $21M.
+**Rally intensifying.** Virtuals +3.2%! Kite/Virtuals nearly tied — gap just $15M!
 
 ---
 
@@ -104,6 +104,12 @@ Base's flagship AI project, spawned the "AI agent" meta.
 4. Volume migration trends over past 30 days?
 
 ## Research Log
+
+### 2026-02-28 20:29 UTC
+- **🔥 Rally intensifying**
+- TAO +3.2%, NEAR +4.6%, Virtuals +3.2%
+- Render nearly flat (-0.5%)
+- Kite/Virtuals gap just $15M — nearly tied!
 
 ### 2026-02-28 19:59 UTC
 - Rally continues — NEAR +3.9% leading
