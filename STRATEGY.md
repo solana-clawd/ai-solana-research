@@ -155,6 +155,7 @@ Solana has 3x the market cap but similar volume. This suggests:
 
 | Time (UTC) | Update |
 |------------|--------|
+| 2026-03-01 05:29 | ⚠️ pippin slips back: -12.93%. Venice SURGES +12.4%! Kite/Virtuals tied at $476M |
 | 2026-03-01 04:59 | 🟢 pippin RECOVERING: -10.98% (was -14.74%!). Kite passes Virtuals ($475M vs $475M) |
 | 2026-03-01 04:29 | ⚠️ pippin BLEEDING continues: -14.74%. Virtuals +7.7% ($474M). Rally fading |
 | 2026-03-01 03:59 | ⚠️ pippin gives back recovery: -13.6%. Virtuals +8.8%, rally cooling across board |
@@ -194,47 +195,48 @@ Solana has 3x the market cap but similar volume. This suggests:
 
 ---
 
-## Latest Data (Mar 1, 2026 04:59 UTC)
+## Latest Data (Mar 1, 2026 05:29 UTC)
 
 ### Market Movement
-- **🟢 pippin BOUNCING BACK!** — recovered ~4 points in 30 min
-- **pippin RECOVERING:** -10.98% (was -14.74%!) 🟢
-- **Render improving:** +1.47% 🟢
-- **Virtuals stable:** +7.81% at $475M 🟢
-- **NEAR solid:** +6.36% 🟢
-- **Grass +29.7%** 🚀🚀 (STILL CHAMPION!)
-- **TAO +2.61%** 🟢
-- **Kite +4.61%** 🟢 — **PASSES VIRTUALS!**
-- **Aethir +0.42%** (cooling)
+- **⚠️ pippin slips back** — recovery didn't hold
+- **pippin FADING:** -12.93% (was -10.98%) ⚠️
+- **Render stable:** +1.53% 🟢
+- **Virtuals improving:** +8.35% at $476M 🟢
+- **NEAR strong:** +7.32% 🟢
+- **Grass +30.1%** 🚀🚀 (NEW HIGH!)
+- **TAO +3.31%** 🟢
+- **Kite +5.06%** 🟢 — **STILL TIED with Virtuals!**
+- **Venice SURGING:** +12.44% 🚀🚀
+- **Aethir flipped red:** -1.23%
 
 ### Solana AI Update
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Render | $739M | **+1.47%** 🟢 | $71M |
-| pippin | $596M | **-10.98%** 🟢 (recovering!) | $58M |
-| **Total** | **$1.33B** | — | **$129M** |
+| Render | $739M | **+1.53%** 🟢 | $73M |
+| pippin | $597M | **-12.93%** ⚠️ | $57M |
+| **Total** | **$1.34B** | — | **$130M** |
 
 ### Base AI Update
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Virtuals | $475M | **+7.81%** 🟢 | $146M |
+| Virtuals | $476M | **+8.35%** 🟢 | $147M |
 
 ### EVM Competitor
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Kite | $475M | **+4.61%** 🟢 | $112M |
+| Kite | $476M | **+5.06%** 🟢 | $131M |
 
 ### Key Observation
-**pippin RECOVERING!** Bounced from -14.74% to -10.98% — a 4-point improvement in 30 minutes. Still down but bleeding has stopped. **Kite ($475M) now EQUAL with Virtuals ($475M)** — the EVM multichain narrative neck-and-neck with Base AI. Spread narrowing: Base +7.8% vs pippin -11% = **18.8 point spread** (was 22.4).
+**pippin recovery FAILED** — slipped from -10.98% back to -12.93%. The bounce was a dead cat bounce. **Kite ($476M) and Virtuals ($476M) DEAD HEAT** — within $200K of each other! Venice Token quietly SURGING +12.4%. Spread widening again: Base +8.4% vs pippin -12.9% = **21.3 point spread**.
 
-### Trend Summary (15h window)
-- pippin: -10.8% → -14.0% → -12.2% → -14.74% → **-10.98%** 🟢 (BOUNCING!)
-- Kite: +8.2% → +9.8% → +6.0% → +3.90% → **+4.61%** 🟢 (recovering)
-- Virtuals: -3.4% → +8.9% → +9.1% → +7.70% → **+7.81%** 🟢 (stable)
-- NEAR: +0.8% → +9.4% → +6.0% → +5.98% → **+6.36%** 🟢 (stable)
-- Render: -5.9% → +2.8% → +1.5% → +0.67% → **+1.47%** 🟢 (improving)
-- Venice: +11.5% → +14.9% → +11.8% → +9.05% → **+5.98%** (cooling)
-- Grass: +31.5% → +34.6% → +29.4% → +29.82% → **+29.73%** 🚀🚀 (CHAMPION!)
+### Trend Summary (16h window)
+- pippin: -10.8% → -14.0% → -14.74% → -10.98% → **-12.93%** ⚠️ (FALSE RECOVERY)
+- Kite: +8.2% → +9.8% → +3.90% → +4.61% → **+5.06%** 🟢 (steady climb)
+- Virtuals: -3.4% → +8.9% → +7.70% → +7.81% → **+8.35%** 🟢 (improving)
+- NEAR: +0.8% → +9.4% → +5.98% → +6.36% → **+7.32%** 🟢 (improving)
+- Render: -5.9% → +2.8% → +0.67% → +1.47% → **+1.53%** 🟢 (stable)
+- Venice: +11.5% → +14.9% → +9.05% → +5.98% → **+12.44%** 🚀🚀 (SURGING!)
+- Grass: +31.5% → +34.6% → +29.82% → +29.73% → **+30.05%** 🚀🚀 (CHAMPION!)
 
 ### Web Search Unavailable
 Unable to check @MattPRD tweets — Brave API key not configured.
