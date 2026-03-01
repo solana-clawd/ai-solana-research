@@ -155,6 +155,7 @@ Solana has 3x the market cap but similar volume. This suggests:
 
 | Time (UTC) | Update |
 |------------|--------|
+| 2026-03-01 01:29 | ⚠️ pippin DETERIORATING: -11.6%! Kite reclaims lead over Virtuals ($468M vs $463M) |
 | 2026-03-01 01:14 | 🔄 Consolidation: pippin -8.5%, Virtuals +3.9%, Kite +8.7% — markets stable |
 | 2026-03-01 00:59 | 📈 pippin recovering -8.5%! Virtuals reclaims lead. Render -1.3% |
 | 2026-03-01 00:29 | ⚠️⚠️ pippin FREEFALL -10.9%! Kite passes Virtuals. Solana AI crisis |
@@ -184,45 +185,44 @@ Solana has 3x the market cap but similar volume. This suggests:
 
 ---
 
-## Latest Data (Mar 1, 2026 01:14 UTC)
+## Latest Data (Mar 1, 2026 01:29 UTC)
 
 ### Market Movement
-- **🔄 CONSOLIDATION** — markets stabilizing after earlier volatility
-- Virtuals maintains slim lead: **$468M vs Kite $467M** (only $200K gap!)
-- pippin: **-8.5%** (holding, not worsening)
-- Render: **-1.3%** (stable)
-- **NEAR +5.0%** (cooling)
-- **Grass +26.9%** 🚀 (still strong!)
-- **Aethir -11.5%** (bleeding continues)
+- **⚠️ pippin DETERIORATING** — false stabilization, now -11.6%!
+- **🔄 Kite reclaims lead:** $468M vs Virtuals $463M
+- Render weakening: **-2.3%** (was -1.3%)
+- **NEAR +4.5%** (cooling)
+- **Grass +29.4%** 🚀 (extending gains!)
+- **Aethir -4.5%** (recovering from -11.5%)
 
 ### Solana AI Update
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Render | $727M | **-1.3%** | $60M |
-| pippin | $586M | **-8.5%** ⚠️ | $60M |
-| **Total** | **$1.31B** | — | **$120M** |
+| Render | $721M | **-2.3%** ⚠️ | $63M |
+| pippin | $578M | **-11.6%** 🔴 | $60M |
+| **Total** | **$1.30B** | — | **$123M** |
 
 ### Base AI Update
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Virtuals | $468M | +3.9% | $129M |
+| Virtuals | $463M | +1.8% | $130M |
 
 ### EVM Competitor
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Kite | $467M | +8.7% | $121M |
+| Kite | $468M | +6.5% | $120M |
 
 ### Key Observation
-**Market consolidation phase.** Virtuals and Kite locked in a $1M battle for #6 AI token position. pippin appears to have found a floor at -8.5% — no further deterioration in the past hour. Grass remains the standout performer (+27%).
+**pippin stabilization was FALSE.** After appearing to bottom at -8.5%, pippin extended losses to -11.6%. Solana AI now bleeding on both major tokens (Render -2.3%). Meanwhile Kite reclaims lead over Virtuals — the #6 AI token battle continues. Grass is the clear winner today (+29%).
 
-### Trend Summary (9h window)
-- pippin: -10.8% → -10.9% → -8.5% → **-8.5%** (STABILIZED)
-- Kite: +8.2% → +8.0% → +8.7% → **+8.7%** (holding)
-- Virtuals: -3.4% → +4.3% → +3.8% → **+3.9%** (slight uptick)
-- NEAR: +0.8% → +6.7% → +5.0% → **+5.0%** (stable)
-- Render: -5.9% → -0.6% → -1.3% → **-1.3%** (stable)
-- Venice: +11.5% → +15.1% → +14.2% → **+14.2%** (cooling)
-- Grass: +31.5% → +28.1% → +26.9% → **+26.9%** (holding)
+### Trend Summary (9.5h window)
+- pippin: -10.8% → -8.5% → **-11.6%** ⚠️ (FALSE BOTTOM!)
+- Kite: +8.2% → +8.7% → **+6.5%** (cooling but leads)
+- Virtuals: -3.4% → +3.9% → **+1.8%** (fading, lost lead)
+- NEAR: +0.8% → +5.0% → **+4.5%** (stable)
+- Render: -5.9% → -1.3% → **-2.3%** (weakening again)
+- Venice: +11.5% → +14.2% → **+15.0%** (still strong)
+- Grass: +31.5% → +26.9% → **+29.4%** (extending!)
 
 ### Web Search Unavailable
 Unable to check @MattPRD tweets — Brave API key not configured.
