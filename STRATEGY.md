@@ -155,6 +155,7 @@ Solana has 3x the market cap but similar volume. This suggests:
 
 | Time (UTC) | Update |
 |------------|--------|
+| 2026-03-01 07:59 | 🟢 pippin RECOVERING -2.82%! Kite reclaims lead $478M vs Virtuals $472M. Render +4.75% |
 | 2026-03-01 07:44 | 📊 Consolidation: pippin -4.55% stable, Virtuals leads Kite $473M vs $472M. Theta +8.6% |
 | 2026-03-01 07:29 | 🚀 NEW HIGHS! Grass +41.6%, NEAR +14.5%! Virtuals passes Kite! pippin -4.9% |
 | 2026-03-01 07:14 | 📊 Consolidation: Grass +39%, NEAR +13%, Virtuals +12%. pippin drifts -6% |
@@ -203,47 +204,46 @@ Solana has 3x the market cap but similar volume. This suggests:
 
 ---
 
-## Latest Data (Mar 1, 2026 07:44 UTC)
+## Latest Data (Mar 1, 2026 07:59 UTC)
 
 ### Market Movement
-- **📊 Consolidation phase** — Rally holding, gains stabilizing
-- **pippin stable:** -4.55% (was -4.93%) 🟢 (slight improvement)
-- **Render solid:** +3.58% 🟢 (cooled from +5.45%)
-- **Virtuals strong:** +11.44% at $473M 🟢🟢 — **STILL LEADS Kite!**
-- **NEAR extends:** +13.45% 🟢🟢🟢 (cooled slightly from +14.53%)
-- **TAO +6.03%** 🟢
-- **Kite +4.37%** 🟢 — **still #2 behind Virtuals**
-- **Venice solid:** +11.88% 🚀🚀
-- **Theta surging:** +8.59% 🟢🟢
+- **🟢 pippin RECOVERING!** -2.82% (was -4.55%) — best level since crash!
+- **Render improving:** +4.75% 🟢🟢 (up from +3.58%)
+- **🔄 Kite RECLAIMS lead!** $478M vs $472M — passes Virtuals again!
+- **Virtuals stable:** +11.20% at $472M 🟢🟢
+- **NEAR strong:** +12.99% 🟢🟢🟢
+- **TAO +7.00%** 🟢
+- **Venice surging:** +14.11% 🚀🚀
+- **Theta extends:** +9.13% 🟢🟢
 
 ### Solana AI Update
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Render | $726M | **+3.58%** 🟢 | $64M |
-| pippin | $589M | **-4.55%** 🟢 (stable) | $53M |
-| **Total** | **$1.31B** | — | **$117M** |
+| Render | $726M | **+4.75%** 🟢🟢 | $62M |
+| pippin | $590M | **-2.82%** 🟢🟢 (RECOVERING!) | $53M |
+| **Total** | **$1.32B** | — | **$115M** |
 
 ### Base AI Update
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Virtuals | $473M | **+11.44%** 🟢🟢 | $125M |
+| Virtuals | $472M | **+11.20%** 🟢🟢 | $123M |
 
 ### EVM Competitor
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Kite | $472M | **+4.37%** 🟢 | $98M |
+| Kite | $478M | **+3.30%** 🟢 | $112M |
 
 ### Key Observation
-**Consolidation phase.** Gains from overnight rally holding steady. **Virtuals ($473M) STILL leads Kite ($472M)** — dead heat continues! pippin stable around -4.5%. Render cooled to +3.58% but still solid green. NEAR remains strongest performer at +13.45%. Spread: Base +11.4% vs pippin -4.6% = **16 point spread** (slightly improved).
+**pippin RECOVERY confirmed!** From -14.7% low to now -2.82% — regained nearly 12 points overnight! **Kite ($478M) reclaims lead over Virtuals ($472M)** — $6M gap. Render strengthening to +4.75%. Both Solana AI tokens now much healthier. Spread: Base +11.2% vs pippin -2.8% = **14 point spread** (narrowing!).
 
 ### Trend Summary (21h window)
-- pippin: -8.20% → -4.33% → -5.65% → -4.93% → **-4.55%** 🟢 (STABILIZING!)
-- Kite: +5.31% → +7.42% → +6.74% → +4.70% → **+4.37%** 🟢 (still #2)
-- Virtuals: +10.37% → +11.62% → +14.37% → +12.26% → **+11.44%** 🟢🟢 (LEADS!)
-- NEAR: +10.44% → +11.86% → +13.59% → +14.53% → **+13.45%** 🟢🟢🟢 (cooling)
-- Render: +2.28% → +4.50% → +5.24% → +5.45% → **+3.58%** 🟢 (cooled)
-- Venice: +13.27% → +15.77% → +17.47% → +13.45% → **+11.88%** 🚀🚀 (stable)
-- Theta: — → — → — → — → **+8.59%** 🟢🟢 (breakout!)
+- pippin: -8.20% → -4.33% → -5.65% → -4.55% → **-2.82%** 🟢🟢 (RECOVERING!)
+- Kite: +5.31% → +7.42% → +6.74% → +4.37% → **+3.30%** 🟢 (LEADS!)
+- Virtuals: +10.37% → +11.62% → +14.37% → +11.44% → **+11.20%** 🟢🟢 (now #2)
+- NEAR: +10.44% → +11.86% → +13.59% → +13.45% → **+12.99%** 🟢🟢🟢 (holding)
+- Render: +2.28% → +4.50% → +5.24% → +3.58% → **+4.75%** 🟢🟢 (improving!)
+- Venice: +13.27% → +15.77% → +17.47% → +11.88% → **+14.11%** 🚀🚀 (surging)
+- Theta: — → — → — → +8.59% → **+9.13%** 🟢🟢 (extending!)
 
 ### Web Search Unavailable
 Unable to check @MattPRD tweets — Brave API key not configured.
