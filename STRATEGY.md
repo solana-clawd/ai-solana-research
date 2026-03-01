@@ -155,6 +155,7 @@ Solana has 3x the market cap but similar volume. This suggests:
 
 | Time (UTC) | Update |
 |------------|--------|
+| 2026-03-01 05:44 | 🟢 pippin recovering AGAIN: -10.48%! Grass EXPLODES +34.5%! Kite leads Virtuals! |
 | 2026-03-01 05:29 | ⚠️ pippin slips back: -12.93%. Venice SURGES +12.4%! Kite/Virtuals tied at $476M |
 | 2026-03-01 04:59 | 🟢 pippin RECOVERING: -10.98% (was -14.74%!). Kite passes Virtuals ($475M vs $475M) |
 | 2026-03-01 04:29 | ⚠️ pippin BLEEDING continues: -14.74%. Virtuals +7.7% ($474M). Rally fading |
@@ -195,48 +196,48 @@ Solana has 3x the market cap but similar volume. This suggests:
 
 ---
 
-## Latest Data (Mar 1, 2026 05:29 UTC)
+## Latest Data (Mar 1, 2026 05:44 UTC)
 
 ### Market Movement
-- **⚠️ pippin slips back** — recovery didn't hold
-- **pippin FADING:** -12.93% (was -10.98%) ⚠️
-- **Render stable:** +1.53% 🟢
-- **Virtuals improving:** +8.35% at $476M 🟢
-- **NEAR strong:** +7.32% 🟢
-- **Grass +30.1%** 🚀🚀 (NEW HIGH!)
-- **TAO +3.31%** 🟢
-- **Kite +5.06%** 🟢 — **STILL TIED with Virtuals!**
-- **Venice SURGING:** +12.44% 🚀🚀
-- **Aethir flipped red:** -1.23%
+- **🟢 pippin RECOVERING AGAIN!** — bounced back from slip
+- **pippin BOUNCING:** -10.48% (was -12.93%) 🟢
+- **Render improving:** +1.89% 🟢
+- **Virtuals strong:** +8.88% at $476M 🟢
+- **NEAR pumping:** +8.53% 🟢🟢
+- **Grass EXPLODING:** +34.5% 🚀🚀🚀 (NEW ATH!)
+- **TAO +4.04%** 🟢
+- **Kite +7.53%** 🟢🟢 — **NOW LEADS Virtuals!**
+- **Venice CONTINUES:** +15.66% 🚀🚀🚀
+- **Aethir deeper red:** -2.15%
 
 ### Solana AI Update
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Render | $739M | **+1.53%** 🟢 | $73M |
-| pippin | $597M | **-12.93%** ⚠️ | $57M |
-| **Total** | **$1.34B** | — | **$130M** |
+| Render | $738M | **+1.89%** 🟢 | $72M |
+| pippin | $598M | **-10.48%** 🟢 (recovering!) | $57M |
+| **Total** | **$1.34B** | — | **$129M** |
 
 ### Base AI Update
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Virtuals | $476M | **+8.35%** 🟢 | $147M |
+| Virtuals | $476M | **+8.88%** 🟢 | $146M |
 
 ### EVM Competitor
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Kite | $476M | **+5.06%** 🟢 | $131M |
+| Kite | $478M | **+7.53%** 🟢🟢 | $109M |
 
 ### Key Observation
-**pippin recovery FAILED** — slipped from -10.98% back to -12.93%. The bounce was a dead cat bounce. **Kite ($476M) and Virtuals ($476M) DEAD HEAT** — within $200K of each other! Venice Token quietly SURGING +12.4%. Spread widening again: Base +8.4% vs pippin -12.9% = **21.3 point spread**.
+**pippin RECOVERING AGAIN!** Bounced from -12.93% to -10.48% — volatile but resilient. **Kite ($478M) NOW LEADS Virtuals ($476M)** by $2M! EVM multichain narrative taking the lead. Grass EXPLODING +34.5% — absolute rally champion. Venice continues surge +15.7%. Spread narrowing: Base +8.9% vs pippin -10.5% = **19.4 point spread** (improving).
 
-### Trend Summary (16h window)
-- pippin: -10.8% → -14.0% → -14.74% → -10.98% → **-12.93%** ⚠️ (FALSE RECOVERY)
-- Kite: +8.2% → +9.8% → +3.90% → +4.61% → **+5.06%** 🟢 (steady climb)
-- Virtuals: -3.4% → +8.9% → +7.70% → +7.81% → **+8.35%** 🟢 (improving)
-- NEAR: +0.8% → +9.4% → +5.98% → +6.36% → **+7.32%** 🟢 (improving)
-- Render: -5.9% → +2.8% → +0.67% → +1.47% → **+1.53%** 🟢 (stable)
-- Venice: +11.5% → +14.9% → +9.05% → +5.98% → **+12.44%** 🚀🚀 (SURGING!)
-- Grass: +31.5% → +34.6% → +29.82% → +29.73% → **+30.05%** 🚀🚀 (CHAMPION!)
+### Trend Summary (17h window)
+- pippin: -14.0% → -14.74% → -10.98% → -12.93% → **-10.48%** 🟢 (VOLATILE RECOVERY)
+- Kite: +9.8% → +3.90% → +4.61% → +5.06% → **+7.53%** 🟢🟢 (SURGING!)
+- Virtuals: +8.9% → +7.70% → +7.81% → +8.35% → **+8.88%** 🟢 (steady)
+- NEAR: +9.4% → +5.98% → +6.36% → +7.32% → **+8.53%** 🟢🟢 (strong)
+- Render: +2.8% → +0.67% → +1.47% → +1.53% → **+1.89%** 🟢 (improving)
+- Venice: +14.9% → +9.05% → +5.98% → +12.44% → **+15.66%** 🚀🚀🚀 (ROCKET!)
+- Grass: +34.6% → +29.82% → +29.73% → +30.05% → **+34.48%** 🚀🚀🚀 (CHAMPION!)
 
 ### Web Search Unavailable
 Unable to check @MattPRD tweets — Brave API key not configured.
