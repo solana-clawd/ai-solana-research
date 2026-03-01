@@ -51,27 +51,27 @@ Base's flagship AI project, spawned the "AI agent" meta.
 
 | Rank | Token | Symbol | Market Cap | 24h Change | Volume | Chain |
 |------|-------|--------|------------|------------|--------|-------|
-| 1 | Bittensor | TAO | $1.71B | **+5.7%** 🟢 | $103M | Own chain |
-| 2 | NEAR Protocol | NEAR | $1.48B | **+9.0%** 🟢🟢 | $330M | NEAR |
-| 3 | Internet Computer | ICP | $1.32B | +3.8% | $76M | ICP |
-| 4 | **Render** | RENDER | **$702M** | **+3.7%** 🟢 | $59M | **Solana** ✅ |
-| 5 | **pippin** | PIPPIN | **$601M** | **-0.3%** 🔴 | $41M | **Solana** ✅ |
-| 6 | Kite | KITE | **$484M** | **+7.3%** 🟢🟢 | $94M | ETH/BSC/AVAX |
-| 7 | **Virtuals Protocol** | VIRTUAL | **$456M** | **+9.3%** 🟢🟢 | $114M | **Base** |
-| 8 | ASI Alliance | FET | ~$346M | +4.9% | $49M | Multi |
+| 1 | Bittensor | TAO | $1.70B | **+5.3%** 🟢 | $103M | Own chain |
+| 2 | NEAR Protocol | NEAR | $1.47B | **+8.8%** 🟢🟢 | $329M | NEAR |
+| 3 | Internet Computer | ICP | $1.31B | +3.6% | $76M | ICP |
+| 4 | **Render** | RENDER | **$701M** | **+3.6%** 🟢 | $59M | **Solana** ✅ |
+| 5 | **pippin** | PIPPIN | **$599M** | **+0.8%** 🟢 | $40M | **Solana** ✅ |
+| 6 | Kite | KITE | **$485M** | **+7.1%** 🟢🟢 | $93M | ETH/BSC/AVAX |
+| 7 | **Virtuals Protocol** | VIRTUAL | **$455M** | **+8.8%** 🟢🟢 | $114M | **Base** |
+| 8 | ASI Alliance | FET | ~$346M | +4.7% | $49M | Multi |
 
-**📊 pippin nearly flat** -0.3%. Kite extends lead to **$28M** over Virtuals!
+**🟢🟢 pippin FLIPS GREEN +0.8%!** 4th flip today. Kite extends lead to **$30M** over Virtuals!
 
 ### Chain Comparison: AI Token Market Share
 
 | Chain | AI Tokens | Combined Mcap | Combined Volume |
 |-------|-----------|---------------|-----------------|
-| **Solana** | Render, pippin | **$1.30B** | **$100M** |
-| **Base** | Virtuals, AIXBT, ecosystem | ~$456M | **$114M** |
-| **EVM Multi** | Kite | $484M | $94M |
+| **Solana** | Render, pippin | **$1.30B** | **$99M** |
+| **Base** | Virtuals, AIXBT, ecosystem | ~$455M | **$114M** |
+| **EVM Multi** | Kite | $485M | $93M |
 | Own chains | TAO, NEAR, ICP | $4.5B | $508M |
 
-**📊 pippin nearly flat** -0.3%. Kite extends lead to **$28M**!
+**🟢🟢 pippin FLIPS GREEN +0.8%!** Both Solana AI tokens green. Kite lead: **$30M**!
 
 ---
 
@@ -104,6 +104,14 @@ Base's flagship AI project, spawned the "AI agent" meta.
 4. Volume migration trends over past 30 days?
 
 ## Research Log
+
+### 2026-03-01 13:29 UTC
+- **🟢🟢 pippin FLIPS GREEN +0.8%!** 4th flip today!
+- Both Solana AI tokens now positive
+- Kite extends: **$485M vs $455M** ($30M gap!)
+- NEAR: **+8.8%** 🟢🟢
+- Render: **+3.6%** 🟢
+- **Solana AI:** $1.30B | **Base AI:** $455M
 
 ### 2026-03-01 13:14 UTC
 - **📊 pippin nearly flat** -0.3% (stable)
