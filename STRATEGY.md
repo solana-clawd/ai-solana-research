@@ -155,6 +155,7 @@ Solana has 3x the market cap but similar volume. This suggests:
 
 | Time (UTC) | Update |
 |------------|--------|
+| 2026-02-28 23:59 | ⚠️ pippin CRASHED -8.4%! Solana AI bleeding. Virtuals +4.1% holds |
 | 2026-02-28 23:29 | 🔄 Virtuals passes Kite! $468M vs $462M. Render flipped red -0.3% |
 | 2026-02-28 23:14 | Market cooling. Kite $468M vs Virtuals $466M. pippin -5.1% concerning |
 | 2026-02-28 22:44 | 🔄 Kite RECLAIMS lead! $470M vs $467M. Render extends +2.0% |
@@ -180,22 +181,22 @@ Solana has 3x the market cap but similar volume. This suggests:
 
 ---
 
-## Latest Data (Feb 28, 2026 23:29 UTC)
+## Latest Data (Feb 28, 2026 23:59 UTC)
 
 ### Market Movement
-- **🔄 Virtuals PASSES Kite again!** $468M vs $462M ($6M gap)
-- **Render flipped red** -0.3% (was +0.2%)
-- **pippin improved slightly** -4.4% (was -5.1%)
-- **NEAR +5.6%**, **TAO +4.6%** — continued cooling
-- **Grass +25.2%**, **Venice +19.5%** — cooling
-- **Both Solana AI tokens now weak/red**
+- **⚠️ pippin CRASHED to -8.4%** (was -4.4%)!
+- Render extends red: **-0.7%** (was -0.3%)
+- Virtuals leads: $468M vs Kite $464M ($4M gap)
+- **NEAR rebounded +6.7%** (was +5.6%)
+- **Grass rebounded +27.5%** (was +25.2%)
+- **Solana AI in serious trouble**
 
 ### Solana AI Update
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Render | $731M | **-0.3%** | $60M |
-| pippin | $601M | -4.4% | $61M |
-| **Total** | **$1.33B** | — | **$121M** |
+| Render | $730M | **-0.7%** | $59M |
+| pippin | $594M | **-8.4%** ⚠️ | $61M |
+| **Total** | **$1.32B** | — | **$120M** |
 
 ### Base AI Update
 | Token | Market Cap | 24h Change | Volume |
@@ -205,19 +206,19 @@ Solana has 3x the market cap but similar volume. This suggests:
 ### EVM Competitor
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Kite | $462M | +9.3% | $147M |
+| Kite | $464M | +9.1% | $146M |
 
 ### Key Observation
-**Virtuals reclaims lead!** Base AI strengthening while both Solana AI tokens are red/weak. This is exactly the narrative gap we're tracking.
+**pippin crash validates thesis!** Solana's AI agent token is bleeding (-8.4%) while Base's Virtuals holds positive (+4.1%). The narrative gap is now price action.
 
-### Trend Summary (7h window)
-- pippin: -10.8% → -5.1% → **-4.4%** (slight improvement)
-- Kite: +8.2% → +9.9% → **+9.3%** (stable, lost lead)
-- Virtuals: -3.4% → +4.9% → **+4.1%** (holding, reclaimed lead!)
-- NEAR: +0.8% → +6.6% → **+5.6%** (cooling)
-- Render: -5.9% → +0.2% → **-0.3%** (flipped red!)
-- Venice: +11.5% → +22.3% → **+19.5%** (cooling)
-- Grass: +31.5% → +30.0% → **+25.2%** (cooling)
+### Trend Summary (7.5h window)
+- pippin: -10.8% → -4.4% → **-8.4%** (CRASHED!)
+- Kite: +8.2% → +9.3% → **+9.1%** (stable)
+- Virtuals: -3.4% → +4.1% → **+4.1%** (holding lead!)
+- NEAR: +0.8% → +5.6% → **+6.7%** (rebounded!)
+- Render: -5.9% → -0.3% → **-0.7%** (extending red)
+- Venice: +11.5% → +19.5% → **+17.2%** (cooling)
+- Grass: +31.5% → +25.2% → **+27.5%** (rebounded)
 
 ### Web Search Unavailable
 Unable to check @MattPRD tweets — Brave API key not configured.
