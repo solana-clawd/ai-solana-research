@@ -155,6 +155,7 @@ Solana has 3x the market cap but similar volume. This suggests:
 
 | Time (UTC) | Update |
 |------------|--------|
+| 2026-03-01 03:44 | 📈 pippin recovering: -12.2% (was -13.5%). Virtuals +9.1%, Aethir flips green +2.9% |
 | 2026-03-01 03:14 | 📊 Consolidation: pippin -13.5%, Virtuals +8.7% ($483M), Grass +31%. Rally steadies |
 | 2026-03-01 02:44 | ⚠️ pippin gives back gains: -12.5%. Virtuals extends +9.7% ($489M). Grass +33% holds |
 | 2026-03-01 02:14 | 🚀 RALLY! pippin -8.6% (was -14%), Render +2.8%, Virtuals +8.9%, NEAR +9.4%! |
@@ -190,47 +191,47 @@ Solana has 3x the market cap but similar volume. This suggests:
 
 ---
 
-## Latest Data (Mar 1, 2026 03:14 UTC)
+## Latest Data (Mar 1, 2026 03:44 UTC)
 
 ### Market Movement
-- **📊 Rally consolidating** — momentum cooling across the board
-- **pippin still bleeding:** -13.5% (was -12.5%) ⚠️
-- **Render stable:** +2.0% 🟢
-- **Virtuals holding:** +8.7% at $483M 🟢🟢
-- **NEAR +7.7%** (slight cooling)
-- **Grass +30.9%** 🚀🚀 (still strong)
-- **TAO +2.6%** (cooling)
-- **Kite +6.4%** (cooling)
-- **Venice +12.9%** (holding)
+- **📈 pippin showing recovery signs** — slight improvement from lows
+- **pippin bouncing:** -12.2% (was -13.5%) 📈
+- **Render cooling:** +1.5% 🟢
+- **Virtuals stable:** +9.1% at $480M 🟢🟢
+- **NEAR +6.0%** (cooling)
+- **Grass +29.4%** 🚀🚀 (still strong)
+- **TAO +2.9%** (stable)
+- **Kite +6.0%** (stable)
+- **Aethir +2.9%** 🟢 (FLIPPED GREEN!)
 
 ### Solana AI Update
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Render | $751M | **+2.0%** 🟢 | $69M |
-| pippin | $594M | **-13.5%** ⚠️ | $61M |
-| **Total** | **$1.35B** | — | **$130M** |
+| Render | $744M | **+1.5%** 🟢 | $70M |
+| pippin | $598M | **-12.2%** 📈 | $60M |
+| **Total** | **$1.34B** | — | **$130M** |
 
 ### Base AI Update
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Virtuals | $483M | **+8.7%** 🟢🟢 | $145M |
+| Virtuals | $480M | **+9.1%** 🟢🟢 | $145M |
 
 ### EVM Competitor
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Kite | $475M | **+6.4%** 🟢 | $136M |
+| Kite | $472M | **+6.0%** 🟢 | $134M |
 
 ### Key Observation
-**Rally entering consolidation phase.** Most tokens cooling from highs but holding gains. pippin continues to underperform (-13.5%), confirming Solana-specific weakness. Virtuals lead extends to **$8M over Kite** ($483M vs $475M). The divergence: Base AI +8.7% vs Solana AI (pippin) -13.5% = **22 percentage point spread**.
+**pippin showing first signs of stabilization.** Improved from -13.5% to -12.2% — first positive move in ~2 hours. Aethir flipped green (+2.9%), suggesting broader risk-on returning. Virtuals lead steady at **$8M over Kite** ($480M vs $472M). The divergence narrowing: Base AI +9.1% vs pippin -12.2% = **21 point spread** (was 22).
 
-### Trend Summary (12h window)
-- pippin: -10.8% → -14.0% → -12.5% → **-13.5%** ⚠️ (STILL BLEEDING)
-- Kite: +8.2% → +9.8% → +8.0% → **+6.4%** (cooling)
-- Virtuals: -3.4% → +8.9% → +9.7% → **+8.7%** 🟢🟢 (consolidating)
-- NEAR: +0.8% → +9.4% → +8.9% → **+7.7%** (cooling)
-- Render: -5.9% → +2.8% → +2.7% → **+2.0%** 🟢 (stable)
-- Venice: +11.5% → +14.9% → +11.4% → **+12.9%** (holding)
-- Grass: +31.5% → +34.6% → +33.1% → **+30.9%** 🚀🚀 (CHAMPION!)
+### Trend Summary (12.5h window)
+- pippin: -10.8% → -14.0% → -13.5% → **-12.2%** 📈 (RECOVERING!)
+- Kite: +8.2% → +9.8% → +6.4% → **+6.0%** (stable)
+- Virtuals: -3.4% → +8.9% → +8.7% → **+9.1%** 🟢🟢 (stable)
+- NEAR: +0.8% → +9.4% → +7.7% → **+6.0%** (cooling)
+- Render: -5.9% → +2.8% → +2.0% → **+1.5%** 🟢 (cooling)
+- Venice: +11.5% → +14.9% → +12.9% → **+11.8%** (stable)
+- Grass: +31.5% → +34.6% → +30.9% → **+29.4%** 🚀🚀 (CHAMPION!)
 
 ### Web Search Unavailable
 Unable to check @MattPRD tweets — Brave API key not configured.
