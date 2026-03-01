@@ -155,6 +155,7 @@ Solana has 3x the market cap but similar volume. This suggests:
 
 | Time (UTC) | Update |
 |------------|--------|
+| 2026-03-01 08:14 | 🚀 NEAR NEW HIGH +14.52%! pippin -3.46% (pullback). Render +5.42%. Kite leads $476M |
 | 2026-03-01 07:59 | 🟢 pippin RECOVERING -2.82%! Kite reclaims lead $478M vs Virtuals $472M. Render +4.75% |
 | 2026-03-01 07:44 | 📊 Consolidation: pippin -4.55% stable, Virtuals leads Kite $473M vs $472M. Theta +8.6% |
 | 2026-03-01 07:29 | 🚀 NEW HIGHS! Grass +41.6%, NEAR +14.5%! Virtuals passes Kite! pippin -4.9% |
@@ -204,46 +205,45 @@ Solana has 3x the market cap but similar volume. This suggests:
 
 ---
 
-## Latest Data (Mar 1, 2026 07:59 UTC)
+## Latest Data (Mar 1, 2026 08:14 UTC)
 
 ### Market Movement
-- **🟢 pippin RECOVERING!** -2.82% (was -4.55%) — best level since crash!
-- **Render improving:** +4.75% 🟢🟢 (up from +3.58%)
-- **🔄 Kite RECLAIMS lead!** $478M vs $472M — passes Virtuals again!
-- **Virtuals stable:** +11.20% at $472M 🟢🟢
-- **NEAR strong:** +12.99% 🟢🟢🟢
-- **TAO +7.00%** 🟢
-- **Venice surging:** +14.11% 🚀🚀
-- **Theta extends:** +9.13% 🟢🟢
+- **NEAR NEW SESSION HIGH!** +14.52% 🚀🚀 — leading entire category!
+- **pippin slight pullback:** -3.46% (was -2.82%) — still healthy range
+- **Render extending:** +5.42% 🟢🟢 (up from +4.75%)
+- **Kite leads Virtuals:** $476M vs $471M — gap narrowed to $5M
+- **Virtuals stable:** +11.19% at $471M 🟢🟢
+- **TAO +7.62%** 🟢🟢
+- **FET +6.95%** 🟢
 
 ### Solana AI Update
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Render | $726M | **+4.75%** 🟢🟢 | $62M |
-| pippin | $590M | **-2.82%** 🟢🟢 (RECOVERING!) | $53M |
-| **Total** | **$1.32B** | — | **$115M** |
+| Render | $726M | **+5.42%** 🟢🟢 | $63M |
+| pippin | $588M | **-3.46%** 🟢 (minor pullback) | $52M |
+| **Total** | **$1.31B** | — | **$115M** |
 
 ### Base AI Update
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Virtuals | $472M | **+11.20%** 🟢🟢 | $123M |
+| Virtuals | $471M | **+11.19%** 🟢🟢 | $123M |
 
 ### EVM Competitor
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Kite | $478M | **+3.30%** 🟢 | $112M |
+| Kite | $476M | **+3.79%** 🟢 | $109M |
 
 ### Key Observation
-**pippin RECOVERY confirmed!** From -14.7% low to now -2.82% — regained nearly 12 points overnight! **Kite ($478M) reclaims lead over Virtuals ($472M)** — $6M gap. Render strengthening to +4.75%. Both Solana AI tokens now much healthier. Spread: Base +11.2% vs pippin -2.8% = **14 point spread** (narrowing!).
+**NEAR breaks new high +14.52%!** Leading the AI category rally. pippin minor pullback to -3.46% (normal consolidation after recovery). Render continues strengthening +5.42%. Kite/Virtuals gap narrowed to $5M — still tight race. Spread: Base +11.2% vs pippin -3.5% = **14.7 point spread** (stable).
 
-### Trend Summary (21h window)
-- pippin: -8.20% → -4.33% → -5.65% → -4.55% → **-2.82%** 🟢🟢 (RECOVERING!)
-- Kite: +5.31% → +7.42% → +6.74% → +4.37% → **+3.30%** 🟢 (LEADS!)
-- Virtuals: +10.37% → +11.62% → +14.37% → +11.44% → **+11.20%** 🟢🟢 (now #2)
-- NEAR: +10.44% → +11.86% → +13.59% → +13.45% → **+12.99%** 🟢🟢🟢 (holding)
-- Render: +2.28% → +4.50% → +5.24% → +3.58% → **+4.75%** 🟢🟢 (improving!)
-- Venice: +13.27% → +15.77% → +17.47% → +11.88% → **+14.11%** 🚀🚀 (surging)
-- Theta: — → — → — → +8.59% → **+9.13%** 🟢🟢 (extending!)
+### Trend Summary (22h window)
+- pippin: -4.33% → -5.65% → -4.55% → -2.82% → **-3.46%** 🟢 (minor pullback)
+- Kite: +7.42% → +6.74% → +4.37% → +3.30% → **+3.79%** 🟢 (LEADS!)
+- Virtuals: +11.62% → +14.37% → +11.44% → +11.20% → **+11.19%** 🟢🟢 (stable)
+- NEAR: +11.86% → +13.59% → +13.45% → +12.99% → **+14.52%** 🚀🚀 (NEW HIGH!)
+- Render: +4.50% → +5.24% → +3.58% → +4.75% → **+5.42%** 🟢🟢 (strengthening!)
+- TAO: — → — → +6.03% → +7.00% → **+7.62%** 🟢🟢 (extending)
+- FET: — → — → — → +6.43% → **+6.95%** 🟢 (holding)
 
 ### Web Search Unavailable
 Unable to check @MattPRD tweets — Brave API key not configured.
