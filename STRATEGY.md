@@ -155,6 +155,7 @@ Solana has 3x the market cap but similar volume. This suggests:
 
 | Time (UTC) | Update |
 |------------|--------|
+| 2026-03-01 11:29 | ⚠️ pippin drops -4.41% (was +0.70%). Kite surges to $478M (+6.6%). Volatile session |
 | 2026-03-01 10:59 | 🟢🟢 pippin BACK TO GREEN +0.70%! Kite extends lead $473M vs $462M. Spread <10pts! |
 | 2026-03-01 10:29 | pippin improving -0.44%! Kite/Virtuals gap narrows $467M vs $461M. NEAR +10.2% |
 | 2026-03-01 09:59 | pippin slips back -1.10% (was +1.53%). Kite extends lead $470M vs $461M ($9M gap) |
@@ -212,45 +213,45 @@ Solana has 3x the market cap but similar volume. This suggests:
 
 ---
 
-## Latest Data (Mar 1, 2026 10:59 UTC)
+## Latest Data (Mar 1, 2026 11:29 UTC)
 
 ### Market Movement
-- **🟢🟢 pippin BACK TO GREEN!** +0.70% — confirmed green!
-- **NEAR cooling:** +8.24% 🚀 (was +10.24%)
-- **Render solid:** +4.52% 🟢🟢
-- **TAO +7.17%** 🟢
-- **Kite extends lead:** $473M vs $462M — $11M gap!
-- **Virtuals:** +10.53% 🟢🟢
+- **⚠️ pippin drops back:** -4.41% (was +0.70%) — gave up green again
+- **NEAR bouncing:** +9.42% 🚀 (was +8.24%)
+- **Render solid:** +4.13% 🟢
+- **TAO +6.45%** 🟢
+- **Kite surges ahead:** $478M vs $462M — $16M gap!
+- **Virtuals:** +10.14% 🟢🟢
 - **ICP +4.80%** 🟢
 
 ### Solana AI Update
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Render | $711M | **+4.52%** 🟢🟢 | $60M |
-| pippin | $599M | **+0.70%** 🟢🟢 (GREEN!) | $28M |
-| **Total** | **$1.31B** | — | **$88M** |
+| Render | $711M | **+4.13%** 🟢 | $58M |
+| pippin | $600M | **-4.41%** 🟡 (dropped) | $43M |
+| **Total** | **$1.31B** | — | **$101M** |
 
 ### Base AI Update
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Virtuals | $462M | **+10.53%** 🟢🟢 | $118M |
+| Virtuals | $462M | **+10.14%** 🟢🟢 | $118M |
 
 ### EVM Competitor
 | Token | Market Cap | 24h Change | Volume |
 |-------|------------|------------|--------|
-| Kite | $473M | **+5.19%** 🟢🟢 | $98M |
+| Kite | $478M | **+6.58%** 🟢🟢 | $97M |
 
 ### Key Observation
-**🎉 pippin BACK TO GREEN +0.70%!** Second time flipping green today. Both Solana AI tokens solidly green. Kite extends lead to $11M over Virtuals. Spread: Base +10.5% vs pippin +0.7% = **9.8 point spread** (under 10!).
+**pippin gives up green again** — dropped to -4.41% (was +0.70%). Third flip today — volatile session. Kite surges to $16M lead over Virtuals. NEAR rebounding +9.42%. Spread: Base +10.1% vs pippin -4.4% = **14.5 point spread** (widened).
 
 ### Trend Summary (24h window)
-- pippin: -5.46% → +1.53% → -1.10% → -0.44% → **+0.70%** 🟢🟢 (BACK TO GREEN!)
-- Kite: +3.53% → +3.44% → +3.89% → +3.50% → **+5.19%** 🟢🟢 (leads by $11M)
-- Virtuals: +10.09% → +9.98% → +10.15% → +10.38% → **+10.53%** 🟢🟢 (stable)
-- NEAR: +11.74% → +12.08% → +11.73% → +10.24% → **+8.24%** 🚀 (cooling)
-- Render: +4.33% → +4.65% → +4.01% → +4.51% → **+4.52%** 🟢🟢 (stable)
-- TAO: +7.56% → +7.50% → +7.41% → +7.01% → **+7.17%** 🟢 (stable)
-- ICP: +4.26% → +3.97% → +4.28% → +3.87% → **+4.80%** 🟢 (improving)
+- pippin: +1.53% → -1.10% → -0.44% → +0.70% → **-4.41%** 🟡 (volatile!)
+- Kite: +3.44% → +3.89% → +3.50% → +5.19% → **+6.58%** 🟢🟢 (leads by $16M!)
+- Virtuals: +9.98% → +10.15% → +10.38% → +10.53% → **+10.14%** 🟢🟢 (stable)
+- NEAR: +12.08% → +11.73% → +10.24% → +8.24% → **+9.42%** 🚀 (bouncing)
+- Render: +4.65% → +4.01% → +4.51% → +4.52% → **+4.13%** 🟢 (stable)
+- TAO: +7.50% → +7.41% → +7.01% → +7.17% → **+6.45%** 🟢 (cooling)
+- ICP: +3.97% → +4.28% → +3.87% → +4.80% → **+4.80%** 🟢 (stable)
 
 ### Web Search Unavailable
 Unable to check @MattPRD tweets — Brave API key not configured.
